@@ -1,5 +1,5 @@
 //Import the configured Express application.
-const app = require("./api/app");
+const app = require("./src/app");
 //Node.js HTTP module to create an HTTP server.
 const http = require("http");
 // Set the port from environment variables or default to 3000.
